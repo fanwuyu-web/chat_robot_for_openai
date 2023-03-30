@@ -6,6 +6,6 @@
 * 下载vits训练的模型及其配置文件并放置到VITS目录下，这里我提供我我自己训练的阿米娅模型，仅供学习交流。
 * https://pan.baidu.com/s/1OIqAHzItdxgYkAma942VvQ?pwd=fuou
 * 申请百度云api和openai-api,并填写在.env目录下
-* 愉快的对话吧
+* 入口是robot,愉快的对话吧
 
 ps:悄悄告诉你，这个项目不需要科学上网哦，猜猜为什么
